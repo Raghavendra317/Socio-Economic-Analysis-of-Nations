@@ -17,9 +17,8 @@ This project analyzes global socio-economic and health factors to identify count
 
 - **Python**: Pandas, NumPy, Scikit-learn  
 - **Data Visualization**: Seaborn, Matplotlib  
-- **Machine Learning**: PCA, KMeans Clustering  
-- **Web App**: Streamlit (if applicable)  
+- **Machine Learning**: PCA, KMeans Clustering    
 
 ---
 
-App Link: https://hlp-country-cluster-us.streamlit.app/
+
